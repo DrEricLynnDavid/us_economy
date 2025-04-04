@@ -11,5 +11,5 @@ The purpose for this unbiased study is to show correlations---where they exist--
 Note about interest rates: the Federal Reserve is the primary driver behind this metric, so it is not worth analyzing in this study.
 
 The author of this study is indifferent regarding voting parties, so no bias is shown in the analysis of data results. This is purely an analytical output from varying data ssources.
-![image](https://github.com/user-attachments/assets/da88c1f9-42a3-4266-96a5-1c849a18ad59)
 
+Note: because this is Excel, it might flag some users (depending on their security settings). There is nothing malicious in this workbook.
